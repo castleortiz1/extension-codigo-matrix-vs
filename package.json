@@ -1,0 +1,21 @@
+{
+  "name": "mi-extension-matrix",
+  "displayName": "mi-extension-matrix",
+  "description": "dinamico",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension CodiGo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension CodiGo-color-theme.json"
+      }
+    ]
+  }
+}
