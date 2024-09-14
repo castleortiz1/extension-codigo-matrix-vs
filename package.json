@@ -17,5 +17,16 @@
         "path": "./themes/Extension CodiGo-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icons/matrix.png",
+  "author": {
+    "name": "Jonathan Castillo",
+    "email": "jotacato3@gmail.com",
+    "url": "https://www.linkedin.com/in/jonathan-castle-a8a88b14b/"
+  },
+  "repository": {
+    "url": "git@github.com:castleortiz1/extension-matrix-vs.git",
+    "type": "git"
+  },
+  "publisher": "codigo-matrix"
 }
